@@ -1,0 +1,9 @@
+👋 Hi, I’m Elias Wacheski
+👀 I’m interested in mobile development and movies...
+🌱 I’m currently learning Android native development with Kotlin...
+💞️ My currently stack are React-Native, React and Typescript...
+
+<!---
+sirwacheski/sirwacheski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
